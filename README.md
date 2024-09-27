@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KunalBishwal
-- 👀 I’m interested in WEB DEV and in AI
-- 🌱 I’m currently learning JAVA,JS
+- 👀 I’m interested in WEB DEV, AI/ML
+- 🌱 I’m currently learning JAVA,JS,React
 - 💞️ I’m looking to collaborate on X and Github
 - 📫 How to reach me https://x.com/KunalBishwal18
 - 😄 Pronouns: I,ME,MYSELF
