@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @KunalBishwal
 - 👀 I’m interested in WEB DEV, AI/ML
 - 🌱 I’m currently learning JAVA, JS, React
-- 💞️ I’m looking to collaborate on X and GitHub
+- 💞️ I’m looking to collaborate on X and GitHub 
 - 📫 How to reach me: [X Profile](https://x.com/KunalBishwal18)
 - 😄 Pronouns: I, ME, MYSELF
 - ⚡ Fun fact: A normal life is boring.
