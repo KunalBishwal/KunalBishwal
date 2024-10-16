@@ -23,4 +23,14 @@
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal)
 
+<div id="contribution-calendar"></div>
+
+<script>
+  fetch('https://api.github.com/users/KunalBishwal/events')
+    .then(response => response.json())
+    .then(data => {
+      let calendar = document.getElementById('contribution-calendar');
+      // Parse the data and dynamically update your calendar here
+    });
+</script>
 
