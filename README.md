@@ -6,22 +6,11 @@
 -I’m looking to collaborate on X, GitHub, LinkedIn 🤝  
 -Pronouns: I, ME, MYSELF 🪞  
 ## Connect with Me
-<a href="https://x.com/KunalBishwal18" target="_blank">
-  <img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-</a>
-<a href="https://github.com/KunalBishwal" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:kunalbishwal2004@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/kunalbishwal" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://my-ideportfolio.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-4D8C2C?style=for-the-badge&logo=appveyor&logoColor=white" alt="My Portfolio" />
-</a>
-
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/KunalBishwal18)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KunalBishwal)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalbishwal2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kunalbishwal)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4D8C2C?style=for-the-badge&logo=appveyor&logoColor=white)](https://my-ideportfolio.netlify.app)
 ## Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
