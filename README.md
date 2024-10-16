@@ -1,9 +1,10 @@
 # Kunal Bishwal
-- 👋 Hi, I’m @KunalBishwal
-- 👀 I’m interested in WEB DEV, AI/ML, DATA SCIENCE
-- 🌱 I’m currently learning Javascript, Java
-- 💞️ I’m looking to collaborate on X,GitHub,LinkdIn 
-- 😄 Pronouns: I, ME, MYSELF
+- Hi, I’m @KunalBishwal
+- I’m interested in WEB DEV, AI/ML, DATA SCIENCE
+- I’m currently learning Javascript, Java
+- I’m looking to collaborate on X, GitHub, LinkedIn
+- Pronouns: I, ME, MYSELF
+
 ## Connect with Me
 <a href="https://x.com/KunalBishwal18" target="_blank">
   <img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="X" />
@@ -30,5 +31,9 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+
+## Contributions
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark)
+
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal)
