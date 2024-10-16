@@ -1,9 +1,10 @@
-# Kunal Bishwal
-Hi, I’m @KunalBishwal  
-I’m interested in WEB DEV, AI/ML, DATA SCIENCE  
-I’m currently learning Javascript, Java  
-I’m looking to collaborate on X, GitHub, LinkedIn  
-Pronouns: I, ME, MYSELF  
+# Kunal Bishwal 👋
+
+-Hi, I’m @KunalBishwal  
+-I’m interested in WEB DEV 🌐, AI/ML 🤖, DATA SCIENCE 📊  
+-I’m currently learning Javascript 📜, Java ☕  
+-I’m looking to collaborate on X, GitHub, LinkedIn 🤝  
+-Pronouns: I, ME, MYSELF 🪞  
 ## Connect with Me
 <a href="https://x.com/KunalBishwal18" target="_blank">
   <img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="X" />
