@@ -21,6 +21,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff)  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)
+[Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal)
