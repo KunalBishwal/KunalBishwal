@@ -19,14 +19,10 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 
-## My Contributions Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KunalBishwal&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=truehttps://github-readme-activity-graph.vercel.app/graph?username=KunalBishwal&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
-
 ## My GitHub Stats
 
-[![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark)](https://github.com/KunalBishwal/github-readme-stats)
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal/github-readme-stats)
