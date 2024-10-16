@@ -1,6 +1,6 @@
 # Kunal Bishwal 👋
 -Hi, I’m @KunalBishwal  
--I’m interested in WEB DEV 🌐, AI/ML 🤖, DATA SCIENCE 📊  
+-I’m interested in WEB DEV 🌐, AI/ML 🤖, DATA SCIENCE 📊  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal)
 -I’m currently learning Javascript 📜, Java ☕  
 -I’m looking to collaborate on X, GitHub, LinkedIn 🤝  
 -Pronouns: I, ME, MYSELF 🪞  
@@ -20,7 +20,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff)![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal)[![GitHub Streak](https://streak-stats.demolab.com/?user=KunalBishwal&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KunalBishwal&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
