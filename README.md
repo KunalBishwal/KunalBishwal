@@ -1,12 +1,25 @@
+# Kunal Bishwal
+
 - 👋 Hi, I’m @KunalBishwal
 - 👀 I’m interested in WEB DEV, AI/ML
-- 🌱 I’m currently learning JAVA,JS,React
-- 💞️ I’m looking to collaborate on X and Github
-- 📫 How to reach me https://x.com/KunalBishwal18
-- 😄 Pronouns: I,ME,MYSELF
-- ⚡ Fun fact:.....
+- 🌱 I’m currently learning JAVA, JS, React
+- 💞️ I’m looking to collaborate on X and GitHub
+- 📫 How to reach me: [X Profile](https://x.com/KunalBishwal18)
+- 😄 Pronouns: I, ME, MYSELF
+- ⚡ Fun fact: A normal life is boring.
 
-<!---
-KunalBishwal/KunalBishwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Technologies & Tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+
+## My GitHub Stats
+
+[![KunalBishwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark)](https://github.com/KunalBishwal)
+
