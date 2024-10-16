@@ -19,10 +19,14 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 
+## My Contributions Graph
+
+![Contribution Graph](https://github.com/KunalBishwal/KunalBishwal/blob/output/github-contribution-grid-snake.svg)
+
 ## My GitHub Stats
 
-[![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark)](https://github.com/KunalBishwal/github-readme-stats)
+[![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark)](https://github.com/KunalBishwal)
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal)
