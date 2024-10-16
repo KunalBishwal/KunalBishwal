@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://my-ideportfolio.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-4D8C2C?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/-Portfolio-4D8C2C?style=for-the-badge&logo=appveyor&logoColor=white" alt="My Portfolio" />
 </a>
 
 ## Technologies & Tools
