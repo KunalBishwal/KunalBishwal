@@ -1,6 +1,6 @@
 # Kunal Bishwal 👋
 -Hi, I’m @KunalBishwal  
--I’m interested in WEB DEV 🌐, AI/ML 🤖, DATA SCIENCE 📊  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal)
+-I’m interested in WEB DEV 🌐, AI/ML 🤖, DATA SCIENCE 📊  
 -I’m currently learning Javascript 📜, Java ☕  
 -I’m looking to collaborate on X, GitHub, LinkedIn 🤝  
 -Pronouns: I, ME, MYSELF 🪞  
@@ -10,6 +10,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalbishwal2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kunal-bishwal-6a450525b)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4D8C2C?style=for-the-badge&logo=appveyor&logoColor=white)](https://my-ideportfolio.netlify.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal)
 ## Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
