@@ -9,6 +9,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KunalBishwal)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalbishwal2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kunalbishwal)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4D8C2C?style=for-the-badge&logo=appveyor&logoColor=white)](https://my-ideportfolio.netlify.app)
 ## Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
