@@ -4,12 +4,9 @@
 - I’m currently learning Javascript 📜, Java ☕  
 - I’m looking to collaborate on X, GitHub, LinkedIn 🤝  
 - Pronouns: I, ME, MYSELF 🪞  
-
 <p align="left">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="350" height="200" alt="Coding Boy" />                         
 </p>                         
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal)
 
 ## Connect with Me
 [![X](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/KunalBishwal18)
@@ -30,6 +27,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KunalBishwal&theme=highcontrast)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal)[![GitHub Streak](https://streak-stats.demolab.com/?user=KunalBishwal&theme=highcontrast)](https://git.io/streak-stats)
