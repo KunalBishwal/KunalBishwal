@@ -6,7 +6,7 @@
 - Pronouns: I, ME, MYSELF 🪞  
 
 <p align="right">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" height="300" alt="Coding Boy" />
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="900" height="300" alt="Coding Boy" />
 </p>
 
 ## Connect with Me
