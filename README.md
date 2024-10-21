@@ -1,10 +1,11 @@
 # Kunal Bishwal 👋
 - Hi, I’m @KunalBishwal  
-- I’m interested in WEB DEV 🌐, AI/ML 🤖, DATA SCIENCE 📊                                                      ![Coding Boy](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)                           
+- I’m interested in WEB DEV 🌐, AI/ML 🤖, DATA SCIENCE 📊                                                                        
 - I’m currently learning Javascript 📜, Java ☕  
 - I’m looking to collaborate on X, GitHub, LinkedIn 🤝  
 - Pronouns: I, ME, MYSELF 🪞  
 ## Connect with Me
+![Coding Boy](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)         
 [![X](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/KunalBishwal18)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KunalBishwal)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalbishwal2004@gmail.com)
