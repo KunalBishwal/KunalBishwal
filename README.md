@@ -1,12 +1,9 @@
 # Kunal Bishwal 👋
 - Hi, I’m @KunalBishwal  
-- I’m interested in WEB DEV 🌐, AI/ML 🤖, DATA SCIENCE 📊  
+- I’m interested in WEB DEV 🌐, AI/ML 🤖, DATA SCIENCE 📊                                                      ![Coding Boy](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)                           
 - I’m currently learning Javascript 📜, Java ☕  
 - I’m looking to collaborate on X, GitHub, LinkedIn 🤝  
 - Pronouns: I, ME, MYSELF 🪞  
-
-![Coding Boy](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif) <!-- Embedding via Markdown -->
-
 ## Connect with Me
 [![X](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/KunalBishwal18)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KunalBishwal)
@@ -30,6 +27,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KunalBishwal&theme=highcontrast)](https://git.io/streak-stats)
-
----
-GIF Source: [via GIPHY](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
