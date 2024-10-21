@@ -5,8 +5,8 @@
 - I’m looking to collaborate on X, GitHub, LinkedIn 🤝  
 - Pronouns: I, ME, MYSELF 🪞  
 
-<p align="right">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="900" height="500" alt="Coding Boy" />
+<p align="left">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="400" alt="Coding Boy" />
 </p>
 
 ## Connect with Me
