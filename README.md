@@ -1,6 +1,6 @@
 # Kunal Bishwal 👋
-<p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" height="300" alt="Coding Boy" />
+<p align="right">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100" height="300" alt="Coding Boy" />
 </p>
 - Hi, I’m @KunalBishwal  
 - I’m interested in WEB DEV 🌐, AI/ML 🤖, DATA SCIENCE 📊  
