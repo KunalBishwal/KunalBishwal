@@ -1,7 +1,7 @@
 # Kunal Bishwal 👋
 - Hi, I’m @KunalBishwal  
 - I’m interested in WEB DEV 🌐, AI/ML 🤖, DATA SCIENCE 📊  
-- I’m currently learning Javascript 📜, Java ☕  
+- I’m currently learning Javascript 📜, Java ☕ , React, Node.js 
 - I’m looking to collaborate on X, GitHub, LinkedIn 🤝  
 - Pronouns: I, ME, MYSELF 🪞  
 <p align="left">
