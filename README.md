@@ -27,4 +27,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal)[![GitHub Streak](https://streak-stats.demolab.com/?user=KunalBishwal&theme=highcontrast)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KunalBishwal&theme=highcontrast)](https://git.io/streak-stats)
