@@ -3,7 +3,7 @@
 - I’m interested in WEB DEV 🌐, AI/ML 🤖, DATA SCIENCE 📊  
 - I’m currently learning Javascript 📜, Java ☕ , React, Node.js 
 - I’m looking to collaborate on X, GitHub, LinkedIn 🤝  
-- Pronouns: I, ME, MYSELF 🪞  
+ 
 <p align="left">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="350" height="200" alt="Coding Boy" />                         
 </p>                         
