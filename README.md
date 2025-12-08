@@ -1,31 +1,68 @@
-# Kunal Bishwal 👋
-- Hi, I’m @KunalBishwal  
-- I’m interested in WEB DEV 🌐, AI/ML 🤖, DATA SCIENCE 📊  
-- I’m currently learning Javascript 📜, Java ☕ , React, Node.js 
-- I’m looking to collaborate on X, GitHub, LinkedIn 🤝  
- 
-<p align="left">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="350" height="200" alt="Coding Boy" />                         
-</p>                         
+<div align="center">
 
-## Connect with Me
-[![X](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/KunalBishwal18)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/KunalBishwal)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalbishwal2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/KunalBishwal)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4D8C2C?style=for-the-badge&logo=appveyor&logoColor=white)](https://www.my-ideportfolio.netlify.app)
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" alt="coding" />
 
-## Technologies & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark)](https://github.com/KunalBishwal)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KunalBishwal&theme=highcontrast)](https://git.io/streak-stats)
+  # Hi there, I'm Kunal Bishwal! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=359AF2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;CS+Undergrad+%40+SRM;Building+Cool+Stuff" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <b>Computer Science Student | Web Developer | Data Science Aspirant</b>
+  </p>
+
+  <p align="center">
+    <a href="https://x.com/KunalBishwal18" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /></a>
+    <a href="https://www.linkedin.com/in/KunalBishwal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+    <a href="mailto:kunalbishwal2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+    <a href="https://www.my-ideportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-10aa50?style=for-the-badge&logo=netlify&logoColor=white" target="_blank" /></a>
+  </p>
+</div>
+
+<br/>
+
+## 🧐 About Me
+
+- 🔭 I’m currently a **3rd Year CS Undergrad** at **SRM University, India**.
+- 💻 I’m currently working on **DevLayers** (A social app for devs) and **C.L.A.R.A** (AI Recruitment).
+- 🌱 I’m currently learning **Next.js, Advanced ML Algorithms, and System Design**.
+- 🤖 Fun fact: I love combining **React** frontends with **Python/Flask** backends.
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,express,java,python,c,cpp,mysql,git,github,vscode,vercel,netlify&perline=9" />
+  </a>
+</div>
+
+<br/>
+
+## 🚀 Key Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **C.L.A.R.A** | Conversational Learning AI for Recruitment Assistance. An AI bot to streamline hiring. | `Python` `NLP` `React` |
+| **DevLayers** | A structured developer journal and social application. | `MERN Stack` `Redux` |
+| **Chicken Disease Clf** | Image classification model to detect poultry diseases. | `Python` `TensorFlow` `CNN` |
+
+<br/>
+
+## ⚡ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=KunalBishwal&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KunalBishwal&style=flat-square&color=blue" alt="profile counter" />
+</div>
