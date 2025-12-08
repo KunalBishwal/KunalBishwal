@@ -70,6 +70,3 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KunalBishwal&style=flat-square&color=20C20E" alt="profile counter" />
-</div>
