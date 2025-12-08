@@ -1,6 +1,6 @@
 <div align="center">
  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="coding dev" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="lofi coding" />
 
   <br/>
 
@@ -10,11 +10,24 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;CS+Undergrad+%40+SRM;Building+Scalable+Apps" alt="Typing SVG" />
   </a>
 
+  <br/>
+
   <p align="center">
-    <a href="https://x.com/KunalBishwal18" target="_blank"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" /></a>
-    <a href="https://www.linkedin.com/in/KunalBishwal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-    <a href="mailto:kunalbishwal2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-    <a href="https://www.my-ideportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-10aa50?style=for-the-badge&logo=netlify&logoColor=white" target="_blank" /></a>
+    <a href="https://github.com/KunalBishwal" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/KunalBishwal" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+    </a>
+    <a href="https://x.com/KunalBishwal18" target="_blank">
+      <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
+    </a>
+    <a href="mailto:kunalbishwal2004@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+    </a>
+    <a href="https://www.my-ideportfolio.netlify.app" target="_blank">
+      <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="portfolio logo"  />
+    </a>
   </p>
 </div>
 
