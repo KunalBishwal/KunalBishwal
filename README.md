@@ -13,23 +13,23 @@
 
   <p align="center">
     <a href="https://github.com/KunalBishwal" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
     </a>
-    &nbsp;&nbsp;
+    &nbsp;
     <a href="https://www.linkedin.com/in/KunalBishwal" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
     </a>
-    &nbsp;&nbsp;
+    &nbsp;
     <a href="https://x.com/KunalBishwal18" target="_blank">
-      <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo" />
+      <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter" />
     </a>
-    &nbsp;&nbsp;
+    &nbsp;
     <a href="mailto:kunalbishwal2004@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
+      <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail" />
     </a>
-    &nbsp;&nbsp;
+    &nbsp;
     <a href="https://www.my-ideportfolio.netlify.app" target="_blank">
-      <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="portfolio logo" />
+      <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="portfolio" />
     </a>
   </p>
 </div>
@@ -61,8 +61,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark&hide_border=true" height="180" alt="Kunal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=KunalBishwal&theme=dark&hide_border=true" alt="Streak Stats" />
+
+![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com/?user=KunalBishwal&theme=dark&hide_border=true)
+
 </div>
