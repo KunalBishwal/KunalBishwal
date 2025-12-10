@@ -58,14 +58,12 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com/?user=KunalBishwal&theme=dark&hide_border=true)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalBishwal&theme=react-dark&hide_border=true&area=true" width="90%" alt="Activity Graph" />
+  
+  <br/><br/>
+  
+  <img src="https://streak-stats.demolab.com/?user=KunalBishwal&theme=dark&hide_border=true" alt="Streak Stats" />
 </div>
