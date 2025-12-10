@@ -61,15 +61,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr border="none">
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kunal's GitHub stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://streak-stats.demolab.com/?user=KunalBishwal&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark&hide_border=true" height="180" alt="Kunal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=KunalBishwal&theme=dark&hide_border=true" alt="Streak Stats" />
 </div>
