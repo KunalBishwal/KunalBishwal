@@ -1,5 +1,4 @@
 <div align="center">
- 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="lofi coding" />
 
   <br/>
@@ -14,19 +13,23 @@
 
   <p align="center">
     <a href="https://github.com/KunalBishwal" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/KunalBishwal" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://x.com/KunalBishwal18" target="_blank">
-      <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
+      <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo" />
     </a>
+    &nbsp;&nbsp;
     <a href="mailto:kunalbishwal2004@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+      <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://www.my-ideportfolio.netlify.app" target="_blank">
-      <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="portfolio logo"  />
+      <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="portfolio logo" />
     </a>
   </p>
 </div>
@@ -56,13 +59,17 @@
 <br/>
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark&hide_border=true" height="150" alt="Kunal's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-</div>
 
 <div align="center">
+  <table>
+    <tr border="none">
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kunal's GitHub stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
   <img src="https://streak-stats.demolab.com/?user=KunalBishwal&theme=dark&hide_border=true" alt="Streak" />
 </div>
-
-
