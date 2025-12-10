@@ -56,14 +56,13 @@
 <br/>
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=dark&hide_border=true" height="150" alt="Kunal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 <div align="center">
-  ![Streak](https://streak-stats.demolab.com/?user=KunalBishwal&theme=dark&hide_border=true)
+  <img src="https://streak-stats.demolab.com/?user=KunalBishwal&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 
