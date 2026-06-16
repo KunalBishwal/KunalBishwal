@@ -38,10 +38,10 @@
 
 ## 🧐 About Me
 
-- 🔭 I’m currently a **3rd Year CS Undergrad** at **SRM University, India**.
+- 🔭 I’m currently a **4th Year CS Undergrad** at **SRM University, India**.
 - 🌱 I’m currently exploring **Next.js, Advanced ML Algorithms, and System Design**.
 - 👯 I’m looking to collaborate on **Open Source AI/ML projects**.
-- 💬 Ask me about **React, Node.js, or Computer Vision**.
+- 💬 Ask me about **React, Node.js, or Artificial Intelligence**.
 - ⚡ Fun fact: I love combining **React** frontends with **Python/Flask** backends.
 
 <br/>
