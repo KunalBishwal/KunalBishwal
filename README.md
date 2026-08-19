@@ -36,14 +36,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full Stack Developer with AI/ML expertise**, currently in my final year of Computer Science at **SRM University, India**. I specialize in building **end‑to‑end web applications** that integrate **machine learning models** and **large language models (LLMs)** to solve real‑world problems.
+I'm a **Full Stack Developer with AI/ML expertise**, currently in my final year of Computer Science at **SRM University, India**. I specialize in building **end-to-end web applications** that integrate **machine learning models** and **large language models (LLMs)** to solve real-world problems.
 
-- 🔭 **Currently building:** AI‑powered SaaS tools and internal dashboards using **React, Next.js, FastAPI, and LangChain**  
-- 🌱 **Currently learning:** MLOps, Kubernetes, AWS, system design, and advanced RAG techniques  
-- 🤝 **Open to collaborate on:** Full‑stack projects with AI features, open‑source AI/ML tools, and developer utilities  
-- 💬 **Ask me about:** React, Node.js, Python, LLM integration, RAG pipelines, or deploying ML models  
-- 📫 **Reach me at:** kunalbishwal2004@gmail.com  
-- ⚡ **Fun fact:** I love turning complex ML models into simple, user‑friendly web apps
+- 🔭 **Currently building:** AI-powered SaaS tools and internal dashboards using **React, Next.js, FastAPI, and LangChain**
+- 🌱 **Currently learning:** MLOps, Kubernetes, AWS, system design, and advanced RAG techniques
+- 🤝 **Open to collaborate on:** Full-stack projects with AI features, open-source AI/ML tools, and developer utilities
+- 💬 **Ask me about:** React, Node.js, Python, LLM integration, RAG pipelines, or deploying ML models
+- 📫 **Reach me at:** kunalbishwal2004@gmail.com
+- ⚡ **Fun fact:** I love turning complex ML models into simple, user-friendly web apps
 
 ---
 
@@ -90,15 +90,12 @@ I'm a **Full Stack Developer with AI/ML expertise**, currently in my final year 
 
 ## 🚀 Featured Projects
 
-> 🔗 **Replace the links below with your actual repository URLs.**
-
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **AI‑Powered Chat Application** | Real‑time chat with LLM‑based responses and RAG over custom documents | Next.js, Node.js, LangChain, Pinecone | [Repo](https://github.com/KunalBishwal/your-repo-name) |
-| **E‑Commerce Platform with Recommendation Engine** | Full‑stack e‑commerce app with ML‑driven product recommendations | React, Node.js, Express, Python, scikit‑learn, MongoDB | [Repo](https://github.com/KunalBishwal/your-repo-name) |
-| **Smart Resume Analyzer** | Upload resumes, extract entities with LLMs, and match against job descriptions | Next.js, FastAPI, LangChain, PostgreSQL | [Repo](https://github.com/KunalBishwal/your-repo-name) |
-| **MLOps Pipeline for Model Deployment** | End‑to‑end pipeline: training, evaluation, containerization, and deployment on AWS | Python, MLflow, Docker, AWS | [Repo](https://github.com/KunalBishwal/your-repo-name) |
-| **Real‑time Collaborative Whiteboard** | Multi‑user whiteboard with live cursors, chat, and persistence | React, Node.js, Socket.io, Redis | [Repo](https://github.com/KunalBishwal/your-repo-name) |
+| **ChickTech-AI-Diagnosis** | AI-powered poultry disease diagnosis system using deep learning and image classification. | Python, TensorFlow, FastAPI, React, Docker | [Repo](https://github.com/KunalBishwal/ChickTech-AI-Diagnosis) |
+| **Synapse_UI** | Modern, accessible React component library built with TypeScript and Tailwind CSS. | React, TypeScript, Tailwind CSS, Storybook | [Repo](https://github.com/KunalBishwal/Synapse_UI) |
+| **Ascend-Career** | Full-stack career platform with AI resume analysis, job matching, and personalized recommendations. | Next.js, Node.js, PostgreSQL, LangChain, AWS | [Repo](https://github.com/KunalBishwal/Ascend-Career) |
+| **C.L.A.R.A** | Conversational AI assistant with LLM integration, RAG for document Q&A, and a clean web interface. | Python, LangChain, OpenAI, Pinecone, Next.js | [Repo](https://github.com/KunalBishwal/C.L.A.R.A) |
 
 ---
 
@@ -130,7 +127,7 @@ I'm a **Full Stack Developer with AI/ML expertise**, currently in my final year 
 
 ## 🤝 Let's Connect
 
-I’m actively looking for **2026/2027 full‑time roles** in **Full‑Stack Development, AI Engineering, or Cloud/DevOps**.  
+I’m actively looking for **2026/2027 full-time roles** in **Full-Stack Development, AI Engineering, or Cloud/DevOps**.  
 Let’s build something impactful together!
 
 <div align="center">
