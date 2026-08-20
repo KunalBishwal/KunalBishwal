@@ -102,14 +102,42 @@ I'm a **Full Stack Developer with AI/ML expertise**, currently in my final year 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalBishwal&theme=react-dark&hide_border=true&area=true" width="90%" alt="Activity Graph" />
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KunalBishwal&theme=react-dark&hide_border=true&area=true"
+    width="90%"
+    alt="GitHub Activity Graph"
+  />
+
   <br/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalBishwal&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api?username=KunalBishwal&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=KunalBishwal&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
+
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=KunalBishwal&theme=dark&hide_border=true" alt="Streak Stats" />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=KunalBishwal&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=KunalBishwal&theme=radical&no-frame=true&row=1&column=6" width="90%" alt="Trophies" />
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=KunalBishwal&theme=radical&no-frame=true&row=1&column=6"
+    width="90%"
+    alt="GitHub Trophies"
+  />
+
 </div>
 
 ---
