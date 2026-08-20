@@ -28,7 +28,7 @@
   <p>
     <img src="https://img.shields.io/badge/Open%20To-Work-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     <img src="https://komarev.com/ghpvc/?username=KunalBishwal&style=for-the-badge&color=brightgreen" alt="Profile views" />
-    <img src="https://img.shields.io/badge/Class%20of-2026-FF6F00?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Class%20of-2027-FF6F00?style=for-the-badge" />
   </p>
 </div>
 
