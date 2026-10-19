@@ -2,13 +2,15 @@ name: Refresh profile visuals
 
 on:
   schedule:
-    # Refresh GitHub statistics and repository cards every six hours.
+    # Refresh stats and project cards every six hours.
     - cron: "17 */6 * * *"
   workflow_dispatch:
   push:
     branches: [main]
     paths:
       - "scripts/profile_assets.py"
+      - "scripts/cards.py"
+      - "scripts/radar.py"
       - "assets/skills.json"
       - "assets/stack.json"
       - "assets/projects.json"
@@ -29,15 +31,25 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate profile SVGs
+      - name: Generate custom terminal banners
+        run: python scripts/profile_assets.py --banner-only
+
+      - name: Generate skill and stack radar charts
+        run: |
+          python scripts/radar.py --data assets/skills.json -o assets/radar
+          python scripts/radar.py --data assets/stack.json -o assets/radar-stack --values
+
+      - name: Generate live language radar and self-hosted stats/project cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/profile_assets.py --user "${{ github.repository_owner }}"
+        run: |
+          python scripts/radar.py --github "${{ github.repository_owner }}" -o assets/radar-langs --values
+          python scripts/cards.py --user "${{ github.repository_owner }}" --projects assets/projects.json --out assets
 
-      - name: Commit updated visuals
+      - name: Commit updated SVGs
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+users.noreply.github.com"
           git add assets/*.svg
           git diff --staged --quiet || git commit -m "chore: refresh profile visuals"
           git push
