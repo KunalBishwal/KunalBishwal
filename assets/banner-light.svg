@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Kunal Bishwal — Full-stack engineering and applied AI</title>
+<desc id="desc">A light lavender and blue developer banner with connected nodes, code-inspired details, and Kunal's engineering focus.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8f7ff"/><stop offset=".55" stop-color="#f1f2ff"/><stop offset="1" stop-color="#eaf6ff"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7055d9"/><stop offset="1" stop-color="#1875c9"/></linearGradient>
+  <radialGradient id="orb"><stop stop-color="#8b5cf6" stop-opacity=".20"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#5c6091" stroke-opacity=".09" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="330" rx="22" fill="url(#bg)"/><rect width="1200" height="330" rx="22" fill="url(#grid)"/>
+<circle cx="1010" cy="100" r="260" fill="url(#orb)"/><circle cx="1100" cy="305" r="210" fill="#2563eb" opacity=".07"/>
+<g stroke="url(#glow)" stroke-opacity=".5" stroke-width="1.6" fill="none">
+<path d="M780 82L900 132L1010 78L1110 143L1065 240L925 250L900 132"/>
+<path d="M1010 78L1035 180L1110 143M925 250L1035 180L1065 240"/>
+<path d="M780 82L790 200L925 250M790 200L1035 180"/>
+</g>
+<g fill="#7962db"><circle cx="780" cy="82" r="5"/><circle cx="900" cy="132" r="5"/><circle cx="1010" cy="78" r="5"/><circle cx="1110" cy="143" r="5"/><circle cx="1065" cy="240" r="5"/><circle cx="925" cy="250" r="5"/><circle cx="790" cy="200" r="4"/><circle cx="1035" cy="180" r="4"/></g>
+<g transform="translate(72 68)">
+<rect x="0" y="0" width="54" height="54" rx="15" fill="#7962db" fill-opacity=".10" stroke="#7962db" stroke-opacity=".75"/>
+<path d="M21 16L12 27L21 38M33 16L42 27L33 38" fill="none" stroke="#5e49b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="27" cy="27" r="2" fill="#1875c9"/>
+<text x="0" y="105" fill="#515b79" font-family="monospace" font-size="13" letter-spacing="3">DEVELOPER PROFILE / 2027</text>
+<text x="0" y="159" fill="#15182c" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="-.9">KUNAL BISHWAL</text>
+<rect x="0" y="181" width="430" height="3" rx="2" fill="url(#glow)"/>
+<text x="0" y="215" fill="#343b59" font-family="Arial, Helvetica, sans-serif" font-size="20">Full-stack engineering  ·  Applied AI</text>
+<text x="0" y="246" fill="#5a6482" font-family="Arial, Helvetica, sans-serif" font-size="15">Build useful software. Keep learning. Ship with purpose.</text>
+</g>
+<text x="1120" y="298" text-anchor="end" fill="#66708c" font-family="monospace" font-size="12" letter-spacing="2">KUNALBISHWAL.DEV</text>
+</svg>
