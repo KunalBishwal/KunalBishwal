@@ -1,0 +1,17 @@
+{
+  "_comment": "Featured public repositories. Descriptions are profile summaries; the generator fetches live stars, forks, and languages from GitHub.",
+  "projects": [
+    {
+      "repo": "ChickTech-AI-Diagnosis",
+      "description": "Computer-vision poultry disease diagnosis with CNN-based image classification, AI-assisted recovery guidance, and multilingual support."
+    },
+    {
+      "repo": "Ascend-Career",
+      "description": "AI career platform with resume intelligence, personalized roadmaps, learning recommendations, job discovery, and voice-enabled mentoring."
+    },
+    {
+      "repo": "Synapse_UI",
+      "description": "AI-adaptive workspace with configurable widgets, natural-language dashboard generation, and interactive 3D visual design."
+    }
+  ]
+}
