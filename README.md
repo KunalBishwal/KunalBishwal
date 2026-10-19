@@ -2,8 +2,16 @@
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" width="100%" alt="Kunal Bishwal — Full-stack engineering and applied AI">
+</picture>
+
+<br/>
+
 <a href="https://github.com/KunalBishwal">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=900&lines=Kunal+Bishwal+%7C+Software+Engineer+in+the+Making;Full-Stack+Development+%C2%B7+Applied+AI;Building+useful+things%2C+one+commit+at+a+time" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=850&lines=Software+Engineer+in+the+Making;Building+Full-Stack+Products+%2B+Applied+AI;Learning+by+Building+and+Shipping" alt="Animated profile tagline" />
 </a>
 
 <br/>
@@ -66,23 +74,23 @@ I enjoy working across the stack—from shaping a clean user experience to desig
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/KunalBishwal/ChickTech-AI-Diagnosis">ChickTech AI Diagnosis</a></h3>
-      AI-assisted poultry disease classification using computer vision, designed to turn image-based predictions into practical diagnostic support.
+      Computer-vision diagnosis for poultry diseases, combining CNN-based image classification with AI-assisted recovery guidance and multilingual support.
       <br/><br/>
-      <sub>Python · Deep Learning · CNN · Transfer Learning</sub>
+      <sub>Next.js · Flask · TensorFlow · Gemini · Sarvam AI</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/KunalBishwal/Ascend-Career">Ascend Career</a></h3>
-      A career-support platform exploring AI-powered guidance, personalized roadmaps, and tools to help candidates plan their next steps.
+      An AI-powered career platform with resume analysis, personalized roadmaps, learning recommendations, job discovery, and a multilingual voice-enabled career mentor.
       <br/><br/>
-      <sub>Next.js · Full Stack · AI Integration</sub>
+      <sub>React · Vite · Firebase · Gemini · Sarvam AI</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/KunalBishwal/Synapse_UI">Synapse UI</a></h3>
-      A reusable UI project focused on building consistent, modern interface components for developer-facing applications.
+      An AI-adaptive workspace where natural-language prompts generate personalized dashboards and configurable widgets, wrapped in interactive 3D visuals.
       <br/><br/>
-      <sub>React · TypeScript · Tailwind CSS</sub>
+      <sub>Next.js · React Three Fiber · Supabase · Groq · Gemini</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/KunalBishwal">More experiments</a></h3>
