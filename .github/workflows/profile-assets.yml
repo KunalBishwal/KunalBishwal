@@ -32,7 +32,7 @@ jobs:
           python-version: "3.12"
 
       - name: Generate custom terminal banners
-        run: python scripts/profile_assets.py --banner-only
+        run: python scripts/profile_assets.py
 
       - name: Generate skill and stack radar charts
         run: |
