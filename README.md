@@ -140,12 +140,6 @@ My interests sit at the intersection of **full-stack development, applied AI/ML,
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-languages-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-languages-light.svg">
-  <img src="assets/card-languages-dark.svg" width="500" alt="Self-hosted programming language breakdown">
-</picture>
-
 </div>
 
 ---
