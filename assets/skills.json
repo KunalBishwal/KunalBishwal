@@ -1,0 +1,34 @@
+{
+  "title": "Engineering Focus",
+  "_comment": "Editable self-assessed areas of focus, not benchmark scores. Adjust the values to match your current confidence.",
+  "axes": [
+    {
+      "label": "Full-stack",
+      "value": 86
+    },
+    {
+      "label": "Applied AI / ML",
+      "value": 82
+    },
+    {
+      "label": "Frontend",
+      "value": 84
+    },
+    {
+      "label": "Backend / APIs",
+      "value": 80
+    },
+    {
+      "label": "Computer Vision",
+      "value": 78
+    },
+    {
+      "label": "Cloud / DevOps",
+      "value": 67
+    },
+    {
+      "label": "Data / SQL",
+      "value": 77
+    }
+  ]
+}
