@@ -140,26 +140,35 @@ def language_card(languages,theme):
     return frame(w,h,c,"GitHub language composition","".join(out))
 
 def main():
-    parser=argparse.ArgumentParser()
-    parser.add_argument("--user",default="KunalBishwal")
-    parser.add_argument("--out",type=Path,default=Path("assets"))
-    parser.add_argument("--projects",type=Path,default=Path("assets/projects.json"))
-    args=parser.parse_args()
-    root=Path(__file__).resolve().parents[1]
-    out=args.out if args.out.is_absolute() else root/args.out
-    project_file=args.projects if args.projects.is_absolute() else root/args.projects
-    token=os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
-    projects=json.loads(project_file.read_text(encoding="utf-8"))["projects"]
-    profile,repos,owned,languages=fetch_profile(args.user,token)
-    by_name={r["name"].lower():r for r in repos}
-    found=[(by_name[item["repo"].lower()],item) for item in projects if item["repo"].lower() in by_name]
-    for theme in ("dark","light"):
-        save(out/f"banner-{theme}.svg",banner(theme))
-        save(out/f"radar-{theme}.svg",radar(root/"assets/skills.json",theme))
-        save(out/f"radar-stack-{theme}.svg",radar(root/"assets/stack.json",theme))
-        save(out/f"card-stats-{theme}.svg",stats_card(args.user,profile,owned,languages,projects,theme))
-        save(out/f"card-languages-{theme}.svg",language_card(languages,theme))
-        for repo,item in found: save(out/f"card-{repo['name']}-{theme}.svg",project_card(repo,item,theme))
-    print(f"Generated profile SVGs for @{args.user}: {len(found)} project cards, {len(languages)} languages.")
+    parser = argparse.ArgumentParser(description="Generate Kunal's terminal-style profile banner.")
+    parser.add_argument("--out", type=Path, default=Path("assets"))
+    parser.add_argument("--banner-only", action="store_true",
+                        help="generate only the custom banners; stats and charts are handled by cards.py and radar.py")
+    args = parser.parse_args()
+    root = Path(__file__).resolve().parents[1]
+    out = args.out if args.out.is_absolute() else root / args.out
+    for theme in ("dark", "light"):
+        save(out / f"banner-{theme}.svg", banner(theme))
+    if args.banner_only:
+        print("Generated dark and light terminal-style banners.")
+        return
 
-if __name__=="__main__": main()
+    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+    projects_path = root / "assets/projects.json"
+    projects = json.loads(projects_path.read_text(encoding="utf-8"))["projects"]
+    profile, repos, owned, languages = fetch_profile("KunalBishwal", token)
+    by_name = {r["name"].lower(): r for r in repos}
+    found = [(by_name[item["repo"].lower()], item) for item in projects
+             if item["repo"].lower() in by_name]
+    for theme in ("dark", "light"):
+        save(out / f"radar-{theme}.svg", radar(root / "assets/skills.json", theme))
+        save(out / f"radar-stack-{theme}.svg", radar(root / "assets/stack.json", theme))
+        save(out / f"card-stats-{theme}.svg",
+             stats_card("KunalBishwal", profile, owned, languages, projects, theme))
+        save(out / f"card-languages-{theme}.svg", language_card(languages, theme))
+        for repo, item in found:
+            save(out / f"card-{repo['name']}-{theme}.svg", project_card(repo, item, theme))
+    print(f"Generated profile SVGs: {len(found)} project cards, {len(languages)} languages.")
+
+if __name__ == "__main__":
+    main()
