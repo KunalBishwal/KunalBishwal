@@ -1,0 +1,30 @@
+{
+  "title": "Stack & Build Interests",
+  "_comment": "Editable self-assessed focus values, not measured proficiency scores.",
+  "axes": [
+    {
+      "label": "TypeScript",
+      "value": 84
+    },
+    {
+      "label": "Python",
+      "value": 86
+    },
+    {
+      "label": "React / Next.js",
+      "value": 88
+    },
+    {
+      "label": "Node / APIs",
+      "value": 81
+    },
+    {
+      "label": "SQL / Postgres",
+      "value": 75
+    },
+    {
+      "label": "Deep Learning",
+      "value": 80
+    }
+  ]
+}
